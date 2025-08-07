@@ -1,35 +1,70 @@
-![Web Developer](https://media.licdn.com/dms/image/C5616AQG5UcASTm_z8g/profile-displaybackgroundimage-shrink_350_1400/0/1640524574324?e=1684368000&v=beta&t=2aUZvOTEs2KMqWm2BmyQB0DeRsXwvMiU216dT_dlY0I)
+### Hi there 👋
 
+<h1 >
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&repeat=false&size=32&pause=1000&color=00FFE4&&vCenter=true&width=500&lines=Simanta+Barua;" />
+</h1>
 
-### Hi there 👋, Simanta Baura
-#### Web Developer
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=24&pause=1000&color=00FFE4&width=600&lines=Frontend+Dev+%F0%9F%94%A5;React+%2B+Tailwind+%2B+TypeScript;Open+Source+Contributor;Learning+Three.js+%26+Next.js" />
+</p>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap" rel="stylesheet" />
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
 
- I am a web developer with expertise in the MERN stack. I have a solid understanding of web development fundamentals such as JavaScript, HTML, and CSS, as well as experience working with popular CSS frameworks such as TailwindCSS and Bootstrap. I enjoy taking on challenging projects and finding creative solutions to complex problems. In my free time, I like to experiment with new technologies and keep up with the latest industry trends to continuously improve my skills. I am passionate about delivering high-quality code and working collaboratively with my team to ensure the success of every project.
+<p style="
+  font-family: 'Orbitron', sans-serif; 
+  font-weight: 700; 
+  font-size: 16px; 
+  color: #00FFE4; 
+  text-align: left; 
+  width: 600px; 
+">
+  MERN stack web developer with strong skills in JavaScript, HTML, CSS, and modern frameworks like TailwindCSS and Bootstrap. Passionate about building quality projects, solving problems creatively, and staying current with tech trends.
+</p>
 
+```ts
+Frontend   : React.js, TypeScript, TailwindCSS, Framer Motion, Bootstrap
+Backend    : Node.js, Express.js, MongoDB, Firebase, JWT
+Tools      : Git, VS Code, Postman, Figma, Linux, Prisma
+Familiar   : Next.js, Docker, Stripe, EmotionJS, Three.js
+```
 
-Skills: HTML/CSS/ JavaScript/ Bootstrap/ TailwindCss/ React js
+---
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript , Three JS , ReatJs 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development  
+### ⚙️ Currently
 
+- 👨‍💻 Working at **Goama** as Junior Frontend Developer
+- 🚧 Building animated UI and 3D experiences
+- 🧠 Learning `Three.js`, `Next.js`, and `WebGL`
+- 🤝 Open to collaboration on creative frontend and fullstack projects
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/simantabarua)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+### 🌐 Let's Connect
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=simantabarua)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left">
+  <a href="https://github.com/simantabarua" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-1e1e2f?style=for-the-badge&logo=github&logoColor=00ffe4" />
+  </a>
+  <a href="https://linkedin.com/in/simantabarua" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1e1e2f?style=for-the-badge&logo=linkedin&logoColor=f500ff" />
+  </a>
+  <a href="mailto:simanta.barua1@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-1e1e2f?style=for-the-badge&logo=gmail&logoColor=ff5cf0" />
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simantabarua)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=simantabarua&show_icons=true&count_private=true)  
+### 🏆 GitHub Highlights
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=simantabarua)  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=simantabarua&theme=dracula&title=Commit,Stars,Followers,Repositories&margin-w=15&row=1" />
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/simantabarua)  
+<p >
+  <img src="https://github-readme-stats.vercel.app/api?username=simantabarua&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simantabarua&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=simantabarua)  
-
-![Profile views](https://gpvc.arturio.dev/simantabarua)  
+---
