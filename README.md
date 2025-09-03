@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/C5616AQG5UcASTm_z8g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1640524575007?e=1759968000&v=beta&t=Gj4DOwINFWwjRafFl0gtwZAVarXajKeXaBXkZ5UMQKA" alt="Developer Image" width="800" />
+</p>
+
 ### Hi there 👋
 
 <h1 >
@@ -23,10 +27,11 @@
 </p>
 
 ```ts
-Frontend   : React.js, TypeScript, TailwindCSS, Framer Motion, Bootstrap
-Backend    : Node.js, Express.js, MongoDB, Firebase, JWT
-Tools      : Git, VS Code, Postman, Figma, Linux, Prisma
-Familiar   : Next.js, Docker, Stripe, EmotionJS, Three.js
+Frontend   : React.js, JavaScript, TypeScript, TailwindCSS, Framer Motion, Bootstrap, Redux, HTML5, CSS3, EmotionJS
+Backend    : Node.js, Express.js, MongoDB, Firebase, JWT, Prisma, REST API, JSON
+Tools      : Git, VS Code, Postman, Figma, Linux, Jira, Trello, Chrome DevTools, VMware
+Familiar   : Next.js, Docker, Stripe, Material UI, Sass, Styled Components, SQLite, Three.js
+
 ```
 
 ---
@@ -52,6 +57,9 @@ Familiar   : Next.js, Docker, Stripe, EmotionJS, Three.js
   <a href="mailto:simanta.barua1@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-1e1e2f?style=for-the-badge&logo=gmail&logoColor=ff5cf0" />
   </a>
+    <a href="https://simanta.web.app/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logoColor=f500ff" />
+  </a>
 </p>
 
 ---
@@ -61,6 +69,8 @@ Familiar   : Next.js, Docker, Stripe, EmotionJS, Three.js
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=simantabarua&theme=dracula&title=Commit,Stars,Followers,Repositories&margin-w=15&row=1" />
 </p>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=simantabarua&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 <p >
   <img src="https://github-readme-stats.vercel.app/api?username=simantabarua&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
