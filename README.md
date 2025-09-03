@@ -19,11 +19,12 @@
   font-family: 'Orbitron', sans-serif; 
   font-weight: 700; 
   font-size: 16px; 
-  color: #00FFE4; 
+  color: #f4f7f6ff; 
   text-align: left; 
   width: 600px; 
 ">
-  MERN stack web developer with strong skills in JavaScript, HTML, CSS, and modern frameworks like TailwindCSS and Bootstrap. Passionate about building quality projects, solving problems creatively, and staying current with tech trends.
+ a passionate Frontend and MERN Stack Developer. I enjoy building interactive, responsive, and scalable web applications with clean and maintainable code. I work with technologies like **React.js, TypeScript, TailwindCSS, Node.js, Express.js, MongoDB, Firebase, and JWT**, and I’m constantly exploring modern tools like **Next.js, Docker, Stripe, Three.js, and EmotionJS** to improve my skills and create amazing user experiences. I love tackling challenging problems, learning new technologies, and building projects that make a real impact.
+
 </p>
 
 ```ts
